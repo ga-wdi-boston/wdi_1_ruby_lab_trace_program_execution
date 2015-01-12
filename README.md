@@ -21,7 +21,7 @@ By the end of this exercise a student should be able to:
 
 - In `lib/is_prime.rb` write a method (we will go more into these soon) that returns true or false if a number is [prime](http://en.wikipedia.org/wiki/Prime_number).
 - Do not use gets or puts.
-- Test your results by running `rspec spec/is_prime.rb`
+- Test your results by running `rspec spec/is_prime_spec.rb`
 
 ## Additional Resources
 
